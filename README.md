@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 Run the main file
 
-Sample Output
+Sample Output:
 
 The sample_output/ folder contains result screenshots such as:
 
@@ -45,7 +45,7 @@ emotion result
 
 word cloud
 
-Notes
+Notes:
 
 This project was developed as part of my AI internship project work.
 
